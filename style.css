@@ -1,0 +1,58 @@
+@font-face {
+  font-family: sanspro;
+  src: url('fonts/sanspro/SourceSansPro-Regular.ttf');
+}
+
+@font-face {
+  font-family: hamersmit;
+  src: url('fonts/hammersmith/HammersmithOne-Regular.ttf');
+}
+
+@font-face {
+  font-family: jost;
+  src: url('fonts/jost/Jost-VariableFont_wght.ttf');
+}
+
+@font-face {
+  font-family: montserat;
+  src: url('fonts/montserrat/MontserratAlternates-Regular.ttf');
+}
+
+nav,
+footer {
+  background-color: SkyBlue;
+  font-family: hamersmit;
+}
+
+footer p a {
+  color: black;
+  text-decoration: none;
+}
+
+.tittle {
+  font-family: hamersmit;
+  color: DarkSlateGray;
+}
+
+.jumbotron {
+  padding-top: 8rem;
+  background-color: rgb(235, 227, 245);
+  font-family: jost;
+}
+
+.about {
+  font-family: jost;
+}
+
+.album {
+  background-color: #ebe3f5;
+  font-family: jost;
+}
+
+#contact {
+  font-family: jost;
+}
+
+section {
+  padding-top: 5rem;
+}
